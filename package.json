@@ -1,0 +1,20 @@
+{
+  "name": "piaic-advance-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Tayyab30: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@github.com/Tayyab30/piaic-advance-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayyab30/piaic-advance-assignment/issues"
+  },
+  "homepage": "https://github.com/Tayyab30/piaic-advance-assignment#readme"
+}
